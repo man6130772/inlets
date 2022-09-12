@@ -1,4 +1,4 @@
-module github.com/inlets/inlets
+module github.com/man6130772/inlets
 
 go 1.13
 
