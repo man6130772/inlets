@@ -1,7 +1,7 @@
 #!/bin/bash
 # This script was adapted from https://github.com/openfaas/cli.openfaas.com/blob/master/get.sh
 
-export OWNER=inlets
+export OWNER=man6130772
 export REPO=inlets
 export SUCCESS_CMD="$REPO version"
 export BINLOCATION="/usr/local/bin"
