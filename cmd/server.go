@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/inlets/inlets/pkg/server"
+	"github.com/man6130772/inlets/pkg/server"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )
