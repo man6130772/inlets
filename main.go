@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/inlets/inlets/cmd"
+	"github.com/man6130772/inlets/cmd"
 	"github.com/sirupsen/logrus"
 )
 
