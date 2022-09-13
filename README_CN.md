@@ -89,6 +89,12 @@ Inlets 作为 *服务代理* [已被列入 Cloud Native Landscape](https://lands
 * [inlets-operator](https://github.com/inlets/inlets-operator) - 给私有 Kubernetes Services 实现公网 IP，支持 CRD
 * [inletsctl](https://github.com/inlets/inletsctl) - 搭建出口节点的最快方法
 
+## 构建 inlets
+
+yum install golang -y
+
+make dist
+
 ## 安装 inlets
 
 你可以使用 `curl` 下载安装脚本，或是用 `brew` 安装，或者直接在 Releases 页面直接下载二进制文件。安装完成后即可使用 `inlets` 命令。
